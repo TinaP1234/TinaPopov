@@ -1,1 +1,1 @@
-# TinaPopov
+# tina-ios-portfolio
